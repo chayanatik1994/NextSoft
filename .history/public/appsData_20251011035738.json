@@ -1,0 +1,198 @@
+[
+  {
+    "image": "https://example.com/images/facebook.png",
+    "title": "Facebook",
+    "companyName": "Meta",
+    "id": 1,
+    "description": "Connect with friends, family, and people who share the same interests as you.",
+    "size": 80,
+    "reviews": 5321,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 234500 },
+      { "name": "2 star", "count": 124500 },
+      { "name": "3 star", "count": 543000 },
+      { "name": "4 star", "count": 1250000 },
+      { "name": "5 star", "count": 2560000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/instagram.png",
+    "title": "Instagram",
+    "companyName": "Meta",
+    "id": 2,
+    "description": "Share photos and videos, connect with your friends, and discover new content.",
+    "size": 70,
+    "reviews": 7321,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 320000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/twitter.png",
+    "title": "Twitter",
+    "companyName": "X Corp",
+    "id": 3,
+    "description": "Stay informed and interact with others by sharing your thoughts in 280 characters.",
+    "size": 50,
+    "reviews": 6123,
+    "ratingAvg": 4.1,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 4,
+    "description": "Send snaps, stories, and stay connected with friends through real-time sharing.",
+    "size": 60,
+    "reviews": 4567,
+    "ratingAvg": 4.2,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 5,
+    "description": "Create and share short videos, discover trending content, and interact with the community.",
+    "size": 120,
+    "reviews": 10234,
+    "ratingAvg": 4.6,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2800000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 6,
+    "description": "A professional network to connect with colleagues, network with professionals, and share opportunities.",
+    "size": 150,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 7,
+    "description": "Discover ideas for DIY, fashion, home decor, recipes, and more through images and boards.",
+    "size": 70,
+    "reviews": 5320,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/reddit.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 8,
+    "description": "Join discussions, explore memes, and share content in communities of your interests.",
+    "size": 75,
+    "reviews": 6789,
+    "ratingAvg": 4.3,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 450000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/whatsapp.png",
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "id": 9,
+    "description": "Send text messages, voice notes, and make voice and video calls with friends and family.",
+    "size": 30,
+    "reviews": 4231,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/youtube.png",
+    "title": "YouTube",
+    "companyName": "Google",
+    "id": 10,
+    "description": "Watch and share videos, discover trending channels, and connect with creators.",
+    "size": 140,
+    "reviews": 15000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 11,
+    "description": "A voice, video, and text chat platform for gamers and communities.",
+    "size": 100,
+    "reviews": 12345,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+     
+    }
