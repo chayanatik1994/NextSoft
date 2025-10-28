@@ -1,0 +1,182 @@
+[
+  {
+    "image": "https://i.ibb.co/WNxFVtnd/Meta.jpg",
+    "title": "Facebook",
+    "companyName": "Meta",
+    "id": 1,
+    "description": "Connect with friends, family, and people who share the same interests as you. Facebook lets you connect with people from all around the world and share life’s moments, while staying updated with what’s happening in the world through its News Feed and Groups.",
+    "size": 80,
+    "reviews": 5321,
+    "ratingAvg": 4.3,
+    "downloads": "5000M",
+    "ratings": [
+      { "name": "1 star", "count": 234500 },
+      { "name": "2 star", "count": 124500 },
+      { "name": "3 star", "count": 543000 },
+      { "name": "4 star", "count": 1250000 },
+      { "name": "5 star", "count": 2560000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/KxV9Kpgj/Instragram.jpg",
+    "title": "Instagram",
+    "companyName": "Meta",
+    "id": 2,
+    "description": "Instagram allows you to capture, edit, and share photos and videos with friends and followers. With its stories and IGTV features, you can share your life’s moments in real-time, discover content through Explore, and stay connected to your friends and influencers.",
+    "size": 70,
+    "reviews": 7321,
+    "ratingAvg": 4.5,
+    "downloads": "3000M",
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 320000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/99tCfj5Q/business-people-holding-linkedin-logo.jpg",
+    "title": "LinkedIn",
+    "companyName": "X Corp",
+    "id": 3,
+    "description": "Stay informed and interact with others by sharing your thoughts in 280 characters. Twitter is the go-to place for trending topics, breaking news, and lively discussions. You can engage with content through likes, retweets, and replies, making it easy to participate in global conversations.",
+    "size": 50,
+    "reviews": 6123,
+    "ratingAvg": 4.1,
+    "downloads": "4000M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 4,
+    "description": "Snapchat allows you to send photos and videos that disappear after being viewed. With fun filters, lenses, and Bitmoji integration, Snapchat lets you express yourself creatively while staying in touch with friends through its Stories feature and private messages.",
+    "size": 60,
+    "reviews": 4567,
+    "ratingAvg": 4.2,
+    "downloads": "3000M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/6RmDbxc9/TikTok.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 5,
+    "description": "TikTok enables users to create short videos set to music, with effects, and share them with the world. TikTok’s algorithm ensures that your videos reach a targeted audience, and the viral nature of trends makes it a platform for creativity and self-expression.",
+    "size": 120,
+    "reviews": 10234,
+    "ratingAvg": 4.6,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/99tCfj5Q/business-people-holding-linkedin-logo.jpg",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 6,
+    "description": "LinkedIn is the world’s largest professional network. It allows you to connect with colleagues, industry leaders, and job seekers. With its job listings, learning courses, and networking opportunities, LinkedIn helps professionals grow their careers and connect with like-minded individuals.",
+    "size": 150,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": "90M",
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/r2V7XJtw/Pin2.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 7,
+    "description": "Pinterest allows users to discover new ideas by browsing through photos, videos, and collections curated by other users. Create personalized boards to organize and save pins related to your interests, from recipes to home decor and fashion inspiration.",
+    "size": 70,
+    "reviews": 5320,
+    "ratingAvg": 4.4,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0VVmjyTS/Youtube.jpg",
+    "title": "YouTube",
+    "companyName": "Reddit, Inc.",
+    "id": 8,
+    "description": "YouTube is a social news aggregation and discussion platform. With its thousands of communities (subreddits), Reddit allows users to share content, join discussions, and stay updated on various topics, ranging from entertainment to technology and everything in between.",
+    "size": 75,
+    "reviews": 6789,
+    "ratingAvg": 4.3,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 450000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/BHkYnTQx/Whatapp.jpg",
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "id": 9,
+    "description": "WhatsApp is a cross-platform messaging app that allows users to send text, voice, and video messages. It also supports group chats and media sharing, offering end-to-end encryption for secure communication with friends, family, and colleagues around the world.",
+    "size": 30,
+    "reviews": 4231,
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0VVmjyTS/Youtube.jpg",
+    "title": "YouTube",
+    "companyName": "Google",
+    "id": 10,
+    "description": "YouTube is a video-sharing platform where users can upload, view, and share videos on a wide range of topics. It’s a hub for entertainment, education, and creator content, with channels for virtually every interest.",
+    "size": 100,
+    "reviews": 15000,
+    "ratingAvg": 4.6,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 2800000 }
+    ]
+  }
+]
