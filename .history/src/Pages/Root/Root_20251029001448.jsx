@@ -1,0 +1,32 @@
+import React, { useState, useEffect } from 'react';
+import Header from '../../Components/Header/Footer/Header';
+import Footer from '../../Components/Header/Footer/Footer';
+import { Outlet } from 'react-router';
+import LoadingSpinner from '../../Components/LoadingSpinner';  // Assuming you have this component
+
+const Root = () => {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Simulate loading (e.g., fetch data or load resources)
+    setTimeout(() => {
+      setLoading(false); // Set loading to false after data is loaded
+    }, 3000); // Simulating a 3-second delay
+  }, []);
+
+  return (
+    <div className="flex flex-col min-h-screen bg-white">
+      <Header />
+      <main>
+        {loading ? (
+          <LoadingSpinner />  {/* Show loading spinner while loading */}
+        ) : (
+          <Outlet />  {/* Show the actual page content when loading is complete */}
+        )}
+      </main>
+      <Footer />
+    </div>
+  );
+};
+
+export default Root;
