@@ -10,7 +10,7 @@ const Root = () => {
       <Header />
 
       {/* Main content container */}
-      <main>
+      <main className="flex-grow  w-full mx-auto px-4 sm:px-6">
         <Outlet />
       </main>
 

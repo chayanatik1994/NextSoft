@@ -10,7 +10,7 @@ const Root = () => {
       <Header />
 
       {/* Main content container */}
-      <main>
+      <main className="">
         <Outlet />
       </main>
 

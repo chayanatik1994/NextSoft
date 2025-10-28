@@ -3,11 +3,11 @@ import { FaGooglePlay, FaApple } from 'react-icons/fa';
 import appMockup from '../../assets/hero.png';
 
 const HomePage = () => (
-    <div className="bg-white text-gray-800 w-full">
+  <div className="bg-white text-gray-800 w-full">
 
     <section className="w-full">
       <div className="max-w-7xl mx-auto px-6 text-center py-16">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">
           We Build <br /> <span className="text-purple-600">Productive</span> Apps
         </h1>
         <p className="text-gray-600 mb-6">

@@ -19,9 +19,13 @@ const Header = () => {
         <img src={logo} alt="Logo" className="w-10 h-10" />
         <h2 className="text-xl font-semibold">Ignite Tech</h2>
       </div>
+
+      {/* Mobile Menu Toggle */}
       <div className="md:hidden text-2xl cursor-pointer" onClick={toggleMenu}>
         {menuOpen ? <FaTimes /> : <FaBars />}
       </div>
+
+      {/* Navigation */}
       <nav
         className={`${
           menuOpen ? 'flex' : 'hidden'
@@ -32,7 +36,7 @@ const Header = () => {
           return (
             <NavLink
               key={path}
-               to={path}
+              to={path}
               end={path === '/'}
               onClick={closeMenu}
               className={({ isActive }) =>
@@ -50,12 +54,12 @@ const Header = () => {
       
       <a
         href="https://github.com/chayanatik1994/modern-dark-ui-landing"
-         target="_blank"
+        target="_blank"
         rel="noopener noreferrer"
         className="hidden md:block"
       >
-          <button className="flex items-center gap-2 bg-purple-800 px-4 py-1 rounded-md hover:bg-purple-700 transition">
-            <FaGithub className="text-xl" /> Contribute
+        <button className="flex items-center gap-2 bg-purple-800 px-4 py-1 rounded-md hover:bg-purple-700 transition">
+          <FaGithub className="text-xl" /> Contribute
         </button>
       </a>
     </header>

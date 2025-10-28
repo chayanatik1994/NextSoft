@@ -3,7 +3,7 @@ import { FaGooglePlay, FaApple } from 'react-icons/fa';
 import appMockup from '../../assets/hero.png';
 
 const HomePage = () => (
-    <div className="bg-white text-gray-800 w-full">
+  <div className="bg-white text-gray-800 w-full">
 
     <section className="w-full">
       <div className="max-w-7xl mx-auto px-6 text-center py-16">

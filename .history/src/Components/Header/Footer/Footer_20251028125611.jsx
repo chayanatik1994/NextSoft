@@ -17,7 +17,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="text-center text-gray-400 text-sm mt-4">
-       © {new Date().getFullYear()} Ignite Tech. All rights reserved.
+      © {new Date().getFullYear()} Ignite Tech. All rights reserved.
     </div>
   </footer>
 );

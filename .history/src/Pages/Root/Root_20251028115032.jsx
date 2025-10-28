@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../Components/Header/Footer/Header';
 import Footer from '../../Components/Header/Footer/Footer';
-import { Outlet } from 'react-router';
+import { Outlet } from 'react-router-dom';
 
 const Root = () => {
   return (
@@ -10,7 +10,7 @@ const Root = () => {
       <Header />
 
       {/* Main content container */}
-      <main>
+      <main className="flex-grow max-w-6xl w-full mx-auto px-4 sm:px-6">
         <Outlet />
       </main>
 
