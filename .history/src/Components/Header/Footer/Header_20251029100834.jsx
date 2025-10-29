@@ -48,7 +48,7 @@ const Header = () => {
         ))}
       </nav>
       <a
-        href="https://github.com/"
+        href="https://github.com/chayanatik1994/NextSoft/commits/main/"
           target="_blank"
         rel="noopener noreferrer"
         className="hidden md:block"

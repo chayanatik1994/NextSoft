@@ -19,9 +19,9 @@ const MyInstallations = () => {
   return (
       <div className="p-6 max-w-6xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">My Installed Apps</h1>
-          <h1>Apps Found</h1>
+          <h1>App Found</h1>
         {installedApps.length === 0 ? (
-        <p>No apps installed.</p>
+      
       ) : (
         installedApps.map((app) => (
           <div

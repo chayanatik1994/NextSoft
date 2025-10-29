@@ -10,8 +10,8 @@ const AppDetails = () => {
   const { id } = useParams();
       const navigate = useNavigate();
   const [app, setApp] = useState(null);
-    const [loading, setLoading] = useState(true);
-    const [installed, setInstalled] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [installed, setInstalled] = useState(false);
 
   // Fetch app data
   useEffect(() => {
@@ -39,7 +39,7 @@ const AppDetails = () => {
     alert("App installed successfully!");
   };
 
-  if (loading) return <p className="text-center mt-10">Loading details...</p>;
+  if (loading) return <p className="text-center mt-10">Loading details</p>;
 
   if (!app)
     return (

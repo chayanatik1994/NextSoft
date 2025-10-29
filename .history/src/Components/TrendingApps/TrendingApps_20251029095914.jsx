@@ -38,7 +38,7 @@ const TrendingApps = () => {
         {appsToShow.map(app => (
           <div
             key={app.id}
-              className="bg-white shadow-lg rounded-xl w-full max-w-xs mx-auto p-3 flex flex-col items-center cursor-pointer hover:shadow-2xl transition"
+            className="bg-white shadow-lg rounded-xl w-full max-w-xs mx-auto p-3 flex flex-col items-center cursor-pointer hover:shadow-2xl transition"
             onClick={() => navigate(`/apps/${app.id}`)}
           >
             <div className="w-full h-60 bg-gray-200 rounded-lg overflow-hidden mb-2">
@@ -47,7 +47,7 @@ const TrendingApps = () => {
               <p className="font-bold text-sm w-full text-left">{app.title}</p>
             <div className="flex justify-between w-full text-xs text-gray-700 mt-2 mb-2 px-2">
                  <div className="flex items-center space-x-1">
-                  <img src={downloadIcon} alt="Downloads" className="w-4 h-4" />
+                <img src={downloadIcon} alt="Downloads" className="w-4 h-4" />
                 <span>{app.downloads.toLocaleString()}</span>
               </div>
               <div className="flex items-center space-x-1">

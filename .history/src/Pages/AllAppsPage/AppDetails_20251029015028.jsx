@@ -10,8 +10,8 @@ const AppDetails = () => {
   const { id } = useParams();
       const navigate = useNavigate();
   const [app, setApp] = useState(null);
-    const [loading, setLoading] = useState(true);
-    const [installed, setInstalled] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [installed, setInstalled] = useState(false);
 
   // Fetch app data
   useEffect(() => {
@@ -74,7 +74,6 @@ const AppDetails = () => {
         </div>
         <div className="md:w-3/5 w-full">
             <h1 className="text-3xl font-bold mb-3">{app.title}</h1>
-             <p className="text-gray-600 mb-4">{app.description}</p>
           <div className="grid grid-cols-3 gap-6 mt-8 text-center">
             <div>
               <img src={downloadIcon} alt="Downloads" className="w-8 h-8 mx-auto mb-2" />

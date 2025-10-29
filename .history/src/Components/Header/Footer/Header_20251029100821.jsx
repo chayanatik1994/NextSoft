@@ -8,7 +8,7 @@ const Header = () => {
 
   const links = [
     { path: "/", label: "Home" },
-      { path: "/apps", label: "Apps" },
+    { path: "/apps", label: "Apps" },
     { path: "/installation", label: "Installation" },
   ];
 
@@ -37,18 +37,18 @@ const Header = () => {
         {links.map(({ path, label }) => (
           <NavLink
             key={path}
-              to={path}
-              className={({ isActive }) =>
+            to={path}
+            className={({ isActive }) =>
               isActive ? "text-purple-400 font-semibold" : "hover:text-purple-400"
             }
             onClick={() => setOpen(false)}
           >
             {label}
-            </NavLink>
+          </NavLink>
         ))}
       </nav>
       <a
-        href="https://github.com/"
+        href="https://github.com/chayanatik1994/NextSoft/commits/main/"
           target="_blank"
         rel="noopener noreferrer"
         className="hidden md:block"

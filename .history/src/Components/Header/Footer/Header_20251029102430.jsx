@@ -48,7 +48,7 @@ const Header = () => {
         ))}
       </nav>
       <a
-        href="https://github.com/"
+        href=""
           target="_blank"
         rel="noopener noreferrer"
         className="hidden md:block"

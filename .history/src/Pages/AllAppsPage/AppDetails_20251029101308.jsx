@@ -10,7 +10,7 @@ const AppDetails = () => {
   const { id } = useParams();
       const navigate = useNavigate();
   const [app, setApp] = useState(null);
-    const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(true);
     const [installed, setInstalled] = useState(false);
 
   // Fetch app data
