@@ -19,17 +19,15 @@ const HomePage = () => (
         </p>
 
         <div className="flex justify-center gap-4 mb-10 flex-wrap">
-          <a href="https://play.google.com/store/apps?hl=en" target="_blank" rel="noopener noreferrer">
-         <button className="flex items-center gap-2 bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
-           <FaGooglePlay /> Google Play
-         </button>
-      </a>
-      <a href="https://apps.apple.com/" target="_blank" rel="noopener noreferrer">
-         <button className="flex items-center gap-2 bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
-         <FaApple /> App Store
-       </button>
-     </a>
+    <a href="https://play.google.com/store/apps?hl=en" target="_blank" rel="noopener noreferrer">
+    <button className="flex items-center gap-2 bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
+        <FaGooglePlay /> Google Play
+    </button>
+</a>
 
+          <button className="flex items-center gap-2 bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
+            <FaApple /> App Store
+          </button>
         </div>
       </div>
 

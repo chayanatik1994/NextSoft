@@ -27,8 +27,8 @@ const HomePage = () => (
       <a href="https://apps.apple.com/" target="_blank" rel="noopener noreferrer">
          <button className="flex items-center gap-2 bg-black text-white px-5 py-2 rounded-md hover:bg-gray-800 transition">
          <FaApple /> App Store
-       </button>
-     </a>
+  </button>
+</a>
 
         </div>
       </div>
